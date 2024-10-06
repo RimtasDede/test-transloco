@@ -1,0 +1,14 @@
+{
+  "one": {
+    "default_value": {
+      "en": "One"
+    },
+    "description": "One label"
+  },
+  "hello": {
+    "default_value": {
+      "en": "Hello"
+    },
+    "description": "Hello label"
+  }
+}
